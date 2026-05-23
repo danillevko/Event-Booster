@@ -1,0 +1,1 @@
+const url = fetch('https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/');
