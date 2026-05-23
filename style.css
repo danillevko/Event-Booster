@@ -77,6 +77,17 @@ body{
 
 
 /* footer */
-.rights{
+.footer{
+    margin-top: 50px;
     margin: 0;
+}
+.rights{
+    width: 521px;
+    height: 20px;
+    margin: 0 auto;
+    font-family: var(--font);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #939393;
 }
